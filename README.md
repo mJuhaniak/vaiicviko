@@ -1,0 +1,3 @@
+# vaiicviko
+
+toto je readme
